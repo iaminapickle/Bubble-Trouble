@@ -4,6 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Roof
+  - Arrow
   - Floor
   - Wall
   layers:
@@ -40,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Behind
+    uniqueID: 510922233
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
