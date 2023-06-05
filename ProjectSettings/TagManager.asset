@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Roof
   - Arrow
+  - Floor
+  - Wall
   layers:
   - Default
   - TransparentFX
